@@ -1,3 +1,11 @@
+Hi there! 👋 Welcome to my GitHub profile!
+I'm Irvin, a passionate tech enthusiast with a love for building and exploring diverse technologies. My expertise spans across **web development**, **fullstack development**, **data science**, and **AI**. Whether it's crafting responsive web apps, diving into data analysis, or developing intelligent solutions, I enjoy leveraging technology to solve real-world problems.
+
+Here, you'll find a variety of projects that reflect my curiosity and passion for continuous learning. Feel free to explore, collaborate, or reach out if you're interested in working together!
+
+Thanks for stopping by!
+
+
 <h1>Languages/Tools/Frameworks/Libraries</h1>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -26,6 +34,7 @@
   <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Motoko-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 <h1>Databases</h1>
 <p>
